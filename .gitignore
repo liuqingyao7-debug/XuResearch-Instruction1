@@ -1,0 +1,8 @@
+# model weights (too large for GitHub)
+*.pth
+# slurm logs
+submit/logs/
+logs/
+# python / jupyter caches
+__pycache__/
+.ipynb_checkpoints/
